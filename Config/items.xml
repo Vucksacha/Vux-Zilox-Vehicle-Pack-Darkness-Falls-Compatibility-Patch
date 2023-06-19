@@ -1,0 +1,16 @@
+<Vux>
+	<set xpath="/items/item[@name='vehicleApacheHelicopterPlaceable']/property[@name='EconomicValue']/@value">150000</set>
+	<!-- <remove xpath="/items/item[@name='vehicleApacheHelicopterChassis']"/> -->
+	<!-- <remove xpath="/items/item[@name='vehicleApacheHelicopterAccessories']"/> -->
+	<remove xpath="/items/item[@name='vehicleApacheHelicopterChassisSchematic']"/>
+	<remove xpath="/items/item[@name='vehicleApacheHelicopterAccessoriesSchematic']"/>
+	<!-- <remove xpath="/items/item[@name='questRewardHelicopterPartsBundle']"/> -->
+
+
+	<!-- <remove xpath="/items/item[@name='vehicleElectricHelicopterChassis']"/> -->
+	<!-- <remove xpath="/items/item[@name='vehicleElectricHelicopterAccessories']"/> -->
+	<remove xpath="/items/item[@name='vehicleElectricHelicopterChassisSchematic']"/>
+	<remove xpath="/items/item[@name='vehicleElectricHelicopterAccessoriesSchematic']"/>
+	<!-- <remove xpath="/items/item[@name='questRewardSolarHelicopterPartsBundle']"/> -->
+
+</Vux>

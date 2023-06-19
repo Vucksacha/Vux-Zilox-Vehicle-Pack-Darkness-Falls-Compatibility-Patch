@@ -1,0 +1,78 @@
+<Vux>
+
+	<append xpath="/traders/trader_info[@id='10']/tier_items[@level='200,-1']">
+		<item name="vehicleApacheHelicopterPlaceable" count="1"/>
+	</append>
+	<append xpath="/traders/trader_info[@id='11']/tier_items[@level='200,-1']">
+		<item name="vehicleElectricHelicopterPlaceable" count="1"/>
+	</append>
+
+	<!-- <remove xpath="//trader_item_group[@name='vehiclePartsT1']/item[@name='vehicleApacheHelicopterChassis']"/> -->
+	<!-- <remove xpath="//trader_item_group[@name='vehiclePartsT1']/item[@name='vehicleApacheHelicopterAccessories']"/> -->
+
+	<!-- <remove xpath="//trader_item_group[@name='vehiclePartsT1']/item[@name='vehicleElectricHelicopterChassis']"/> -->
+	<!-- <remove xpath="//trader_item_group[@name='vehiclePartsT1']/item[@name='vehicleElectricHelicopterAccessories']"/> -->
+
+	<remove xpath="//trader_item_group[@name='rareBooks']/item[@name='vehicleApacheHelicopterChassisSchematic']"/>
+	<remove xpath="//trader_item_group[@name='rareBooks']/item[@name='vehicleApacheHelicopterAccessoriesSchematic']"/>
+
+	<remove xpath="//trader_item_group[@name='rareBooks']/item[@name='vehicleElectricHelicopterChassisSchematic']"/>
+	<remove xpath="//trader_item_group[@name='rareBooks']/item[@name='vehicleElectricHelicopterAccessoriesSchematic']"/>
+
+<!-- <remove xpath="//trader_item_group[@name='vehiclePartsT1']">
+
+<append xpath="//trader_item_group[@name='vehiclePartsT1']">
+	<item name="vehicleApacheHelicopterChassis"/>
+	<item name="vehicleApacheHelicopterAccessories"/>
+	<item name="vehicleApacheHelicopterPlaceable"/>
+	<item name="vehicleCessnaPlaneChassis"/>
+	<item name="vehicleCessnaPlaneAccessories"/>
+	<item name="vehicleCessnaPlanePlaceable"/>
+	<item name="vehicleJeepGladiatorPlaceable"/>
+	<item name="vehicleJeepGladiatorChassisSchematic"/>
+	<item name="vehicleJeepGladiatorAccessoriesSchematic"/>
+	<item name="vehicleOffroadBuggyPlaceable"/>
+	<item name="vehicleOffroadBuggyChassisSchematic"/>
+	<item name="vehicleOffroadBuggyAccessoriesSchematic"/>
+	<item name="vehicleElectricHelicopterChassis"/>
+	<item name="vehicleElectricHelicopterAccessories"/>
+	<item name="vehicleElectricHelicopterPlaceable"/>
+	<item name="vehicleAPCChassis"/>
+	<item name="vehicleAPCAccessories"/>
+	<item name="vehicleAPCPlaceable"/>
+	<item name="vehicleTigrJeepChassis"/>
+	<item name="vehicleTigrJeepAccessories"/>
+	<item name="vehicleTigrJeepPlaceable"/>	
+</append>
+
+<append xpath="//trader_item_group[@name='rareBooks']">
+	<item name="vehicleApacheHelicopterChassisSchematic"/>
+	<item name="vehicleApacheHelicopterAccessoriesSchematic"/>
+	<item name="vehicleCessnaPlaneChassisSchematic"/>
+	<item name="vehicleCessnaPlaneAccessoriesSchematic"/>
+	<item name="vehicleElectricHelicopterChassisSchematic"/>
+	<item name="vehicleElectricHelicopterAccessoriesSchematic"/>
+	<item name="vehicleAPCChassisSchematic"/>
+	<item name="vehicleAPCAccessoriesSchematic"/>
+	<item name="vehicleTigrJeepChassisSchematic"/>
+	<item name="vehicleTigrJeepAccessoriesSchematic"/>	
+</append>
+
+<append xpath="//trader_item_group[@name='ammo']">
+	<item name="ammoMissile" count="20,40"/>
+	<item name="ammoAPCRocketFrag" count="20,40"/>
+	<item name="ammoAPCRocketHE" count="20,40"/>
+	<item name="ammoAPCRocketNuke" count="20,40"/>		
+</append>
+
+<append xpath="//trader_item_group[@name='schematicsVehiclesMods']">
+	<item name="ammoAPCRocketFragSchematic"/>
+	<item name="ammoAPCRocketHESchematic"/>
+	<item name="ammoAPCRocketNukeSchematic"/>
+	<item name="modVehicleWeaponBurstFireSchematic"/>
+	<item name="modVehicleWeaponFullAutoSchematic"/>
+	<item name="modVehicleWeaponFireDamageSchematic"/>
+	<item name="modVehicleWeaponShockDamageSchematic"/>		
+</append> -->
+
+</Vux>

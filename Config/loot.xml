@@ -1,0 +1,10 @@
+<Vux>
+	<remove xpath="//lootgroup[@name='vehiclePartsTiered']/item[@group='HelicopterParts']"/>
+	<!-- <remove xpath="//lootgroup[@name='schematicsVehiclesT2']"/> -->
+	<remove xpath="//lootgroup[@name='HelicopterParts']"/>
+	<remove xpath="//lootgroup[@name='groupQuestHelicopterParts']"/>
+	<append xpath="//lootgroup[@name='mechanicVehiclesUltraRare']">		
+		<item name="vehicleElectricHelicopterChassis" count="1" prob="0.25"/>
+		<item name="vehicleElectricHelicopterAccessories" count="1" prob="0.25"/>
+	</append>
+</Vux>

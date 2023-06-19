@@ -1,0 +1,2 @@
+Key,english
+perkMasterMechanicRank1Desc,"Unlock the impact driver, oil pump, smg, titanium club, titanium sledgehammer, car battery, engine, gyrocopter, cessna plane, gladiator jeep, offroad buggy, apc, tigr, apc ammo, tigr ammo, apache ammo, box truck, buggy, humvee, stallion, and marauder recipes.\nIncreases crafting tier by 10 for clubs and sledges, salvaging tools, SMG, robotic turret and junk turret."

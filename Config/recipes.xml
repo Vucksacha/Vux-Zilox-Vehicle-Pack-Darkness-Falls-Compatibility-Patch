@@ -1,0 +1,11 @@
+<Vux>
+	<!-- APACHE HELICOPTER -->
+	<remove xpath="/recipes/recipe[@name='vehicleApacheHelicopterAccessories']"/>
+	<remove xpath="/recipes/recipe[@name='vehicleApacheHelicopterChassis']"/>
+	<!-- <remove xpath="/recipes/recipe[@name='vehicleApacheHelicopterPlaceable']"/> -->
+
+	<!-- SOLAR POWERED HELICOPTER -->
+	<remove xpath="/recipes/recipe[@name='vehicleElectricHelicopterAccessories']"/>
+	<remove xpath="/recipes/recipe[@name='vehicleElectricHelicopterChassis']"/>
+	<!-- <remove xpath="/recipes/recipe[@name='vehicleElectricHelicopterPlaceable']"/> -->
+</Vux>

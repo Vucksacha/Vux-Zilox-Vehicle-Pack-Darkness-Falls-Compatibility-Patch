@@ -1,0 +1,11 @@
+<Vux>
+
+	<!-- <append xpath="//perk[@name='perkGreaseMonkey']/effect_group/passive_effect[@level='5']/@tags">,vehicleApacheHelicopterChassis,vehicleApacheHelicopterAccessories,ammoMissile</append> -->
+	<append xpath="//perk[@name='perkMasterMechanic']/effect_group/passive_effect[@name='RecipeTagUnlocked']/@tags">,vehicleCessnaPlaneChassis,vehicleCessnaPlaneAccessories</append>
+	<append xpath="//perk[@name='perkMasterMechanic']/effect_group/passive_effect[@name='RecipeTagUnlocked']/@tags">,vehicleJeepGladiatorChassis,vehicleJeepGladiatorAccessories</append>
+	<append xpath="//perk[@name='perkMasterMechanic']/effect_group/passive_effect[@name='RecipeTagUnlocked']/@tags">,vehicleOffroadBuggyChassis,vehicleOffroadBuggyAccessories</append>
+	<!-- <append xpath="//perk[@name='perkGreaseMonkey']/effect_group/passive_effect[@level='5']/@tags">,vehicleElectricHelicopterChassis,vehicleElectricHelicopterAccessories</append> -->
+	<append xpath="//perk[@name='perkMasterMechanic']/effect_group/passive_effect[@name='RecipeTagUnlocked']/@tags">,vehicleAPCChassis,vehicleAPCAccessories,ammoAPCRocketFrag,ammoAPCRocketHE,ammoAPCRocketNuke,modVehicleAmmoAPCRocketHE,modVehicleAmmoAPCRocketNuke</append>
+	<append xpath="//perk[@name='perkMasterMechanic']/effect_group/passive_effect[@name='RecipeTagUnlocked']/@tags">,vehicleTigrJeepChassis,vehicleTigrJeepAccessories</append>	
+
+</Vux>
