@@ -1,0 +1,3 @@
+<Vux>
+	<remove xpath="//quest[@id='quest_tier5complete']/reward[@id='groupQuestHelicopterParts']"/>
+</Vux>
